@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.0-alpha.63 (2025-03-08)
+
+Full Changelog: [v0.1.0-alpha.62...v0.1.0-alpha.63](https://github.com/openai/openai-go/compare/v0.1.0-alpha.62...v0.1.0-alpha.63)
+
+### Features
+
+* **client:** allow custom baseurls without trailing slash ([#254](https://github.com/openai/openai-go/issues/254)) ([de1216a](https://github.com/openai/openai-go/commit/de1216a51301e6aeb987bdbff707d2f85b374593))
+
+
+### Chores
+
+* move ChatModel type to shared ([#250](https://github.com/openai/openai-go/issues/250)) ([34fbacc](https://github.com/openai/openai-go/commit/34fbacc8308683c2dca3368ad0d42cca3aee8deb))
+
 ## 0.1.0-alpha.62 (2025-03-05)
 
 Full Changelog: [v0.1.0-alpha.61...v0.1.0-alpha.62](https://github.com/openai/openai-go/compare/v0.1.0-alpha.61...v0.1.0-alpha.62)
